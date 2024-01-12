@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> Bilka </title>
+</head>
+<body style="background-color: white;">
+<NAVBAR style="position: fixed; height: 50px; fill: orange;">fjiewefjow</NAVBAR>
+<div id="container_1" style="padding: 50px; border: 1px solid black; margin: 10%; max-width: 50%; max-height: 50%; position: sticky; left: 20%; top: 20%;"> 
+<hr style="width: 40%;"/>
+<br/> 
+<IMG src="header.png" style="display: block; margin-left: auto; margin-right: auto; align: center; width: 210px; height: 150px;">
+<br/>
+<br/>
+<p style="text-align: center; font-family: sans-serif; color: black;"> B I L K A </p>
+<hr style="width: 40%;"/>   
+<br/>
+<br/>
+<br/>
+<p style="text-align: center; font-family: sans-serif; color: black;"> Diese Webseite ist noch nicht verfügbar. </p>
+<br/>   
+<p style="text-align: center; font-family: sans-serif; color: black;"> Vielen Dank für Ihr Verständnis. </p>
+ 
+<br/>
+<br/>
+
+    
+    
+    
+    
+<p style="text-align: center; font-family: sans-serif; color: black;"> Folgen Sie uns</p>   
+    
+<table style="margin-left: auto; margin-right: auto; ont-family: sans-serif; color: black;">
+  <tr>
+    <th>&#x2660</th>
+    <th>4883050</th>
+    <th>5735748</th>
+  </tr>
+  <tr>
+    <td>.</td>
+    <td>.</td>
+    <td>.</td>
+  </tr>
+  <tr>
+    <td>.</td>
+    <td>.</td>
+    <td>.</td>
+  </tr>
+  <tr>
+    <td>.</td>
+    <td>.</td>
+    <td>.</td>
+  </tr>
+</table>    
+ 
+    
+<br/>
+<br/>
+</div>
+</body>
+<html>
